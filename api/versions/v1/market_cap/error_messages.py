@@ -1,0 +1,7 @@
+NO_MARKET_DATA = 'There is no market data for the selected date. Please try a different date'
+NO_MARKET_CAP_FOR_CURRENCY = 'There is no market cap in the selected currency. Please try a different currency'
+UNKNOWN_COIN_ID = 'Could not find the coin specified by the coin ID. Please try a different value'
+TOO_MANY_API_REQUESTS = 'The Coin Gecko API has received too many requests. Please try again in {delta_seconds} seconds'
+INCORRECT_DATE_FORMAT = 'Incorrect date format. Please use YYYY/MM/DD'
+FUTURE_DATE = 'Date is in the future. Please use yesterday or a historical date'
+MISSING_QUERY_PARAMETERS = 'Please supply all required query parameters'
